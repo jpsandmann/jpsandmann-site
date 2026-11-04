@@ -14,4 +14,4 @@ Edit index.html for the biography, research.html for publications, teaching.html
 
 No deployment workflow is enabled. Preview and approval precede any push to the public repository or hosting configuration.
 
-The intake selects a GaryKing.org/mysite footer credit and an inert source marker; these are included. No information is submitted to any directory or mailing list. Person structured data is included on each page.
+The visible footer credit has been removed at the owner’s request. An inert source marker remains. No information is submitted to any directory or mailing list. Person structured data is included on each page.
